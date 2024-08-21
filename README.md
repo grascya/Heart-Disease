@@ -1,5 +1,8 @@
 # Heart Attack Prediction
 Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impacting overall health. Early detection and management are vital for better outcomes. Machine learning and predictive models have recently become key tools in identifying heart disease risk. These models analyze patient data, such as medical history and lifestyle, to predict the likelihood of developing heart disease. This technology helps healthcare providers make informed decisions, allowing for earlier intervention and personalized treatment, ultimately reducing the impact of heart diseases and saving lives.
+**Objective**:Our primary objective is to ascertain the probability of an individual being susceptible to a severe heart problem based on some features. <br>
+**Methods Used**: Exploratory Data Analysis, Inferential Statistics, Data Visualization, Machine Learning, Predictive Modeling.<br>
+**Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, Scikit-learn
 ## DATA DICTIONNARY 
 
 1. age: age in years
@@ -39,3 +42,4 @@ Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impa
     - 0 = no disease,
     - 1 = disease
 
+## Key Insights 
