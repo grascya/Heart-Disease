@@ -3,7 +3,7 @@ Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impa
 **Objective**: Our primary objective is to ascertain the probability of an individual being susceptible to a severe heart problem based on some features. <br>
 **Methods Used**: Exploratory Data Analysis, Inferential Statistics, Data Visualization, Machine Learning, Predictive Modeling.<br>
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, Scikit-learn.<br>
-## DATA DICTIONNARY 
+## DATA DICTIONARY 
 
 1. age: age in years
 2. sex: sex
@@ -44,7 +44,7 @@ Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impa
 
 ## Key Insights 
 - 54.3% of cases in the dataset are classified as heart disease against 44.7% and 68.2% are male
-- There is no difference in serum cholesterol, fasting blood sugar, resting electrocardiographic results between those who have heart disease and those who don't in the dataset
+- There is no difference in serum cholesterol, fasting blood sugar, and resting electrocardiographic results between those who have heart disease and those who don't in the dataset
 - Those with 0 major vessels are at higher risk of heart disease and, those with typical angina are at less risk of heart disease in this dataset
 - Svm was the best model with an accuracy_score of 0.89 , a precison_score of 0.90 a recall_score of 0.88 and a f1_score of 0.90
-- chest pain type (cp), the slope of the peak exercise ST segment (slp) , resting electrocardiographic results (restecg), sex and number of major vessels (0-3) colored by flourosopy (caa) were the three most important features for the model
+- chest pain type (cp), the slope of the peak exercise ST segment (slp) , resting electrocardiographic results (restecg), sex, and number of major vessels (0-3) colored by fluoroscopy (caa) were the three most important features for the model
