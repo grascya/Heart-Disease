@@ -5,7 +5,7 @@ Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impa
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, Scikit-learn.<br>
 ## DATA DICTIONARY 
 
-1. age: age in years
+1. age: age in years.
 2. sex: sex
     - 1 = male
     - 0 = female
