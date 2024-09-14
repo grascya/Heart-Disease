@@ -20,11 +20,11 @@ Heart or cardiovascular diseases (CVDs) affect the heart and blood vessels, impa
     - 1 = true;
     - 0 = false
 7. restecg: resting electrocardiographic results
-    - Value 0: normal
+    - Value 0: Normal
     - Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
     - Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
 8. thalach: maximum heart rate achieved
-9. exang: exercise induced angina
+9. exang: exercise-induced angina
     - 1 = yes
     - 0 = no
 10. oldpeak = ST depression induced by exercise relative to rest
